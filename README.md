@@ -4,7 +4,7 @@ Users can join a specific chat room. After joining the room, they can have a cha
 
 ## Preview
 
-<img src="https://raw.githubusercontent.com/emrezeytun/chat-app-nodeJS/main/chat_nodeJS.gif?token=AHAF2N5NVTT7J3LSAGM7PBTBDNR7C">
+<img src="https://github.com/emrezeytun/chat-app-nodeJS/blob/main/chat_nodeJS.gif">
 
 ## Installation
 
